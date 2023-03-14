@@ -1,2 +1,3 @@
 # npg_Jakub_Budek
-Repozytorium na zajęcia
+Repozytorium na zajęcia stworzone przy pomocy Git'a 
+
